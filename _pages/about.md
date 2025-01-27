@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Personal introduction"
+title: "个人介绍"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a PhD student at the University of Padua, with a primary focus on the resilience of complex systems and infrastructures networks. My interest lies in exploring new methods to make complex systems adaptable to disruptive events from the perspectives of systems engineering and statistical physics. I am committed to designing more robust and resilient complex systems to mitigate the adverse effects of natural disasters on human activities.
+杨克巍，国防科技大学系统工程学院教授、博士生导师。主要研究方向：复杂系统管理、体系工程管理。现任中国系统工程学会副理事长，湖南省科技创新团队“大数据与体系工程”负责人。
 
 A data-driven personal website
 ======
